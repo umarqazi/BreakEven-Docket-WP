@@ -1,0 +1,13 @@
+<?php 
+require_once('list.php');
+require_once('title2.php');
+require_once('content.php');
+require_once('headqua.php');
+require_once('overlay.php');
+require_once('partners.php');
+require_once('short_des.php');
+require_once('short_des2.php');
+require_once('social.php');
+require_once('team.php');
+require_once('testimonial.php');
+?>
